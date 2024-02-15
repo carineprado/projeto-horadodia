@@ -1,2 +1,2 @@
 # projeto-horadodia
- Projeto Hora do dia criado no Módulo D do curso de JavaScript
+ Projeto Hora do Dia criado no Módulo D do curso de JavaScript
